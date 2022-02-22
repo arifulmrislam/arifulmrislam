@@ -1,4 +1,4 @@
-### Hi there I am [Ariful](https://github.com/arifulmrislam) 👋
+### Hi there I am 👋
 
 <!--
 **arifulmrislam/arifulmrislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
