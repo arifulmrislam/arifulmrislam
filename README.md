@@ -12,8 +12,8 @@
 <a href="https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/" target="_blank">
     <img src="img/in.png" width="33" height="30" alt="Linkedin"/></a> 
 
-<!-- <a href="https://facebook.com/needyaminofficial" target="_blank">
-	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a>  -->
+<a href="https://www.facebook.com/ariful.i.joy.7" target="_blank">
+	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
 	
 
 <a href="https://www.hackerrank.com/ariful_mr_islam" target="_blank">
