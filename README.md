@@ -2,9 +2,9 @@
 
 
 `🎓 Daffodil International University, Bangladesh`<br/>
-`🏫 Studies MSc (Master) Department of CSC`<br/>
+`🏫 Studies MSc (Master) Department of CSC, Romania`<br/>
 `📧 ariful.mr.islam@gmail.com`<br/>
-`🏠 Tejgaon, Dhaka, Bangladesh`<br/>
+`🏠 Strada Grigore Plesoianu 34, Dolj, Craiova`<br/>
 
 <a href="https://twitter.com/arifulislam301" target="_blank">
     <img src="img/twitter.png" width="34" height="30" alt="Twitter"/></a> 
