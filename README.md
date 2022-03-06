@@ -1,5 +1,11 @@
 ### Hi there I am [Arif](https://github.com/arifulmrislam)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+
+🎓 National University, Bangladesh
+🏫 Studies BBA (Honours) Department of Accounting
+📧 needyamin@ansnew.com
+🏠 Jessore, Khulna, Bangladesh
+
 <!--
 **arifulmrislam/arifulmrislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
