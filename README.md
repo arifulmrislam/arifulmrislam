@@ -1,13 +1,10 @@
 ### Hi there I am [Arif](https://github.com/arifulmrislam)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
-🎓 National University, Bangladesh
-
-🏫 Studies BBA (Honours) Department of Accounting
-
-📧 needyamin@ansnew.com
-
-🏠 Jessore, Khulna, Bangladesh
+`🎓 Daffodil International University, Bangladesh`<br/>
+`🏫 Studies MSc (Master) Department of CSC`<br/>
+`📧 ariful.mr.islam@gmail.com`<br/>
+`🏠 Tejgaon, Dhaka, Bangladesh`<br/>
 
 
 <!--
