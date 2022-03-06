@@ -24,7 +24,28 @@
 	<img src="img/ansnew.png" width="33" height="30" alt="ANSNEW"/></a> 	 -->
 	
 	
-  I’m Arif! A full stack web developer specializing in frontend and backend development. Having an in-depth knowledge including Python, C++, SQL, JavaScript and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. Also, I do web application penetration tests.
+I’m Arif! A full stack web developer specializing in frontend and backend development. Having an in-depth knowledge including Python, C++, SQL, JavaScript and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. Also, I do web application penetration tests.
+  
+### Skills
+
+<p>
+  <img src="https://img.shields.io/badge/Python 3.9-★★★★★-306998" />
+  <img src="https://img.shields.io/badge/C++ 8.0-★★★★★-ff7821" />
+  <img src="https://img.shields.io/badge/JavaScript-★★★★★-important" />
+  <img src="https://img.shields.io/badge/SQL-★★★★★-F29111" />
+<!--   <img src="https://img.shields.io/badge/R-★★★★★-R29111" /> -->
+  <img src="https://img.shields.io/badge/SQLite 3.37-★★★★★-S29111" />
+  <img src="https://img.shields.io/badge/jQuery 3.6-★★★★★-00758F" />   
+  <img src="https://img.shields.io/badge/BootStrap v5.0-★★★★★-563d7c" />
+  <img src="https://img.shields.io/badge/Flask 2.0-★★★★★-important" />
+  <img src="https://img.shields.io/badge/Django 3.2-★★★★★-092e20" />
+  <img src="https://img.shields.io/badge/HTML5-★★★★★-ff7851" /> 
+  <img src="https://img.shields.io/badge/CSS3-★★★★★-44b2fb" /> 
+  <img src="https://img.shields.io/badge/SCSS-★★★★★-CD6799" />
+  <img src="https://img.shields.io/badge/Git 2.31-★★★★★-F1502F" />
+  <img src="https://img.shields.io/badge/Github-★★★★★-6e5494" />
+    
+</p>
 	
 <!--
 **arifulmrislam/arifulmrislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
