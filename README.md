@@ -35,6 +35,7 @@ I’m Arif! A full stack web developer specializing in frontend and backend deve
   <img src="https://img.shields.io/badge/SQL-★★★★★-F29111" />
 <!--   <img src="https://img.shields.io/badge/R-★★★★★-R29111" /> -->
   <img src="https://img.shields.io/badge/SQLite 3.37-★★★★★-S29111" />
+  <img src="https://img.shields.io/badge/PostgreSQL 3.37-★★★★★-S29111" />
   <img src="https://img.shields.io/badge/jQuery 3.6-★★★★★-00758F" />   
   <img src="https://img.shields.io/badge/BootStrap v5.0-★★★★★-563d7c" />
   <img src="https://img.shields.io/badge/Flask 2.0-★★★★★-important" />
