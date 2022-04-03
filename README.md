@@ -1,4 +1,4 @@
-### Hi there I am [Arif](https://github.com/arifulmrislam)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there I am [Ariful](https://github.com/arifulmrislam)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 
 `🎓 Daffodil International University, Bangladesh`<br/>
@@ -24,7 +24,7 @@
 	<img src="img/ansnew.png" width="33" height="30" alt="ANSNEW"/></a> 	 -->
 	
 	
-I’m Arif! A full stack web developer specializing in frontend and backend development. Having an in-depth knowledge including Python, C++, SQL, JavaScript and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. Also, I do web application penetration tests.
+I’m Ariful Islam! A Automation and IoT Engineer. Having an in-depth knowledge including Python, C++, SQL, JavaScript and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. Also, I do web application penetration tests.
   
 ### Skills
 
