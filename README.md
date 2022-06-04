@@ -1,4 +1,4 @@
-### Hi there I am [Ariful](https://github.com/arifulmrislam)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px">
+### Hi there I am [Ariful](https://github.com/arifulmrislam)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5">
 
 
 `🎓 Daffodil International University, Bangladesh`<br/>
