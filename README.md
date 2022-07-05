@@ -24,7 +24,7 @@
 	<img src="img/ansnew.png" width="33" height="30" alt="ANSNEW"/></a> 	 -->
 	
 	
-I’m Ariful Islam! An Automation and IoT Engineer. Having an in-depth knowledge including Python, C++, SQL, JavaScript and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. Also, I do web application penetration tests.
+I’m Ariful Islam Arif! An Automation and IoT Engineer. Having an in-depth knowledge including Python, C++, SQL, JavaScript and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. Also, I do web application penetration tests.
   
 ### Skills
 
