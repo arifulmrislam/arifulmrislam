@@ -1,63 +1,84 @@
-### Hi there I am [Ariful](https://github.com/arifulmrislam)<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30">
+### Hi there, I'm [Ariful Islam Arif](https://github.com/arifulmrislam) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 
+🚀 **Frontend Developer | IoT & Automation Engineer | Cybersecurity Enthusiast**
 
-`🎓 Daffodil International University, Bangladesh`<br/>
-`📧 ariful.mr.islam@gmail.com`<br/>
-`🏠 Mckinney,TX`<br/>
+---
 
-<a href="https://twitter.com/arifulislam301" target="_blank">
-    <img src="img/twitter.png" width="34" height="30" alt="Twitter"/></a> 
+### 📍 About Me
 
-<a href="https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/" target="_blank">
-    <img src="img/in.png" width="33" height="30" alt="Linkedin"/></a> 
+🎓 **Graduated from**: Daffodil International University, Bangladesh  
+📍 **Currently in**: McKinney, Texas  
+📧 **Email**: ariful.mr.islam@gmail.com  
 
-<a href="https://www.facebook.com/ariful.i.joy.7" target="_blank">
-	<img src="img/facebook.png" width="33" height="30" alt="Facebook"/></a> 
-	
+I'm Ariful Islam Arif — a developer with a strong foundation in **software engineering**, **cybersecurity**, and **IoT automation**. I specialize in building **dynamic web applications** and **secure backend systems** using tools like Node.js, Express.js, PostgreSQL, and JWT.  
 
-<a href="https://www.hackerrank.com/ariful_mr_islam" target="_blank">
-	<img src="img/hackerrank.png" width="33" height="30" alt="hackerrank"/></a> 	
-  
-  
-<!-- <a href="https://www.ansnew.com/" target="_blank">
-	<img src="img/ansnew.png" width="33" height="30" alt="ANSNEW"/></a> 	 -->
-	
-	
-I’m Ariful Islam Arif! An Automation and IoT Engineer. Having an in-depth knowledge including Python 3, C++, C, SQL, JavaScript and Cyber Security Field. I know the core of principle programming languages and it helps me to create dynamic web applications. Very Comfortable with GIT and the command line interface (CLI). Familiar with Linux and Windows environment OS. Also, I do web application penetration tests.
-  
-### Skills
+- 🔧 Comfortable using **Git** and the **Command Line Interface (CLI)**
+- 💻 Experienced in both **Linux** and **Windows** OS environments
+- 🛡️ Skilled in **web application penetration testing**
+- 🧠 Passionate about continuous learning and building real-world applications
+
+---
+
+### 🛠️ Technical Skills
 
 <p>
-  <img src="https://img.shields.io/badge/Python 3.9-★★★★★-306998" />
-  <img src="https://img.shields.io/badge/C++ 8.0-★★★★★-ff7821" />
-  <img src="https://img.shields.io/badge/JavaScript-★★★★★-important" />
-  <img src="https://img.shields.io/badge/SQL-★★★★★-F29111" />
-<!--   <img src="https://img.shields.io/badge/R-★★★★★-R29111" /> -->
-  <img src="https://img.shields.io/badge/SQLite 3.37-★★★★★-S29111" />
-  <img src="https://img.shields.io/badge/PostgreSQL 3.37-★★★★★-S29111" />
-  <img src="https://img.shields.io/badge/jQuery 3.6-★★★★★-00758F" />   
-  <img src="https://img.shields.io/badge/BootStrap v5.0-★★★★★-563d7c" />
-  <img src="https://img.shields.io/badge/Flask 2.0-★★★★★-important" />
-  <img src="https://img.shields.io/badge/Django 3.2-★★★★★-092e20" />
-  <img src="https://img.shields.io/badge/HTML5-★★★★★-ff7851" /> 
-  <img src="https://img.shields.io/badge/CSS3-★★★★★-44b2fb" /> 
-  <img src="https://img.shields.io/badge/SCSS-★★★★★-CD6799" />
-  <img src="https://img.shields.io/badge/Git 2.31-★★★★★-F1502F" />
-  <img src="https://img.shields.io/badge/Github-★★★★★-6e5494" />
-    
+  <img src="https://img.shields.io/badge/Python 3.9-Expert-306998" />
+  <img src="https://img.shields.io/badge/C++-Pro-ff7821" />
+  <img src="https://img.shields.io/badge/JavaScript-Advanced-f7df1e?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-Beginner-3178C6" />
+  <img src="https://img.shields.io/badge/SQL-Advanced-F29111" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Pro-336791" />
+  <img src="https://img.shields.io/badge/Node.js-Intermediate-339933?logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-Intermediate-black" />
+  <img src="https://img.shields.io/badge/React-Beginner-61DAFB?logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind CSS-Beginner-06B6D4" />
+  <img src="https://img.shields.io/badge/Git-Expert-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-Learning-0db7ed?logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-Authentication-informational" />
+  <img src="https://img.shields.io/badge/IoT-Experienced-lightblue" />
+  <img src="https://img.shields.io/badge/Cyber Security-Ethical Hacking-green" />
 </p>
-	
-<!--
-**arifulmrislam/arifulmrislam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Tools & Technologies
+
+- **Frontend**: HTML5, CSS3, SCSS, Tailwind, Bootstrap, React
+- **Backend**: Node.js, Express.js, PostgreSQL, SQLite
+- **Frameworks**: Flask, Django
+- **Dev Tools**: Git, GitHub, Docker, CLI, VS Code
+- **Security**: Web App Pentesting, JWT, HTTPS, OWASP Top 10
+- **IoT/Automation**: LoRaWAN, MQTT, Raspberry Pi, Siemens TIA Portal, PLCs
+
+---
+
+### 📚 Currently Exploring
+
+- ⚙️ Dockerizing Full-Stack Projects
+- 🔄 GraphQL APIs
+- 📡 Industrial IoT + Real-Time Dashboards
+- 🧠 System Design and Scalable Backend Architecture
+
+---
+
+### 🌐 Connect with Me
+
+<a href="https://twitter.com/arifulislam301" target="_blank">
+    <img src="img/twitter.png" width="30" height="30" alt="Twitter"/>
+</a> 
+<a href="https://www.linkedin.com/in/ariful-islam-arif-2987b51a3/" target="_blank">
+    <img src="img/in.png" width="30" height="30" alt="LinkedIn"/>
+</a> 
+<a href="https://www.facebook.com/ariful.i.joy.7" target="_blank">
+	<img src="img/facebook.png" width="30" height="30" alt="Facebook"/>
+</a> 
+<a href="https://www.hackerrank.com/ariful_mr_islam" target="_blank">
+	<img src="img/hackerrank.png" width="30" height="30" alt="HackerRank"/>
+</a> 
+
+---
+
+### 📊 GitHub Stats
+
+![Ariful's GitHub stats](https://github-readme-stats.vercel.app/api?username=arifulmrislam&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arifulmrislam&layout=compact&theme=tokyonight)
