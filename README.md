@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ariful Islam Arif](https://github.com/arifulmrislam) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 
-🚀 **Frontend Developer | IoT & Automation Engineer | Cybersecurity Enthusiast**
+💻 **Frontend Developer | Full-Stack Enthusiast | IoT Explorer | Security Learner**
 
 ---
 
@@ -45,7 +45,7 @@ I'm Ariful Islam Arif — a developer with a strong foundation in **software eng
 
 - **Frontend**: HTML5, CSS3, SCSS, Tailwind, Bootstrap, React
 - **Backend**: Node.js, Express.js, PostgreSQL, SQLite
-- **Frameworks**: Flask, Django
+- **Library**: React
 - **Dev Tools**: Git, GitHub, Docker, CLI, VS Code
 - **Security**: Web App Pentesting, JWT, HTTPS, OWASP Top 10
 - **IoT/Automation**: LoRaWAN, MQTT, Raspberry Pi, Siemens TIA Portal, PLCs
