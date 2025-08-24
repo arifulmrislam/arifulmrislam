@@ -1,6 +1,6 @@
 ### Hi there, I'm [Ariful Islam Arif](https://github.com/arifulmrislam) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"/>
 
-💻 **Frontend Developer | Full-Stack Enthusiast | IoT Explorer | Security Learner**
+💻 **Engineer bridging Industrial Automation & Software | PLCs, IoT/IIoT, Full-Stack Development | Driving Industry 4.0 Solutions**
 
 ---
 
